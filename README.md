@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Xiaofan Shi 👋
 
-<!--
-**Brienne999/Brienne999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a Business undergraduate at the University of Nottingham Ningbo China (UNNC), currently exploring the intersection of business, finance, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub serves as my learning portfolio, where I document projects, coursework, and ideas as I continue developing my skills in programming and data analysis.
+
+## 🚀 Current Focus
+
+- Python Programming
+- Data Analysis with Pandas
+- Business Finance
+- Game Theory
+
+## 📚 Interested In
+
+- Business Analytics
+- Artificial Intelligence
+- Machine Learning
+- Quantitative Finance
+
+## 🛠️ Tools
+
+- Python
+- Git
+- GitHub
+- Excel
+
+More tools will be added as I learn.
+
+## 📈 Goals for 2026
+
+- Build a strong Python project portfolio
+- Learn machine learning fundamentals
+- Contribute to open-source projects
+- Participate in undergraduate research
+
+Thanks for visiting my profile!
